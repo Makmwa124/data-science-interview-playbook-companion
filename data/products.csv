@@ -1,0 +1,39 @@
+product_id,product_name,category,price
+101,Bananas 1kg,Fruit & Veg,3.49
+102,Royal Gala Apples 1kg,Fruit & Veg,5.49
+103,Baby Spinach 120g,Fruit & Veg,4.49
+104,Brown Onions 1kg,Fruit & Veg,3.99
+105,Carrots 1kg,Fruit & Veg,3.99
+106,Avocado,Fruit & Veg,5.99
+107,Cherry Tomatoes 250g,Fruit & Veg,6.49
+108,Washed Potatoes 2kg,Fruit & Veg,3.49
+109,Full Cream Milk 2L,Dairy,6.99
+110,Greek Yoghurt 1kg,Dairy,4.99
+111,Tasty Cheese 500g,Dairy,9.49
+112,Salted Butter 250g,Dairy,8.99
+113,Free Range Eggs 12pk,Dairy,6.99
+114,Oat Milk 1L,Dairy,7.99
+115,Sourdough Loaf,Bakery,5.49
+116,Wholemeal Bread,Bakery,6.99
+117,Croissants 4pk,Bakery,5.49
+118,Wraps 8pk,Bakery,4.99
+119,Basmati Rice 2kg,Pantry,5.99
+120,Penne 500g,Pantry,4.99
+121,Olive Oil 750ml,Pantry,9.99
+122,Rolled Oats 1kg,Pantry,8.49
+123,Peanut Butter 375g,Pantry,12.49
+124,Tinned Tomatoes 400g,Pantry,1.49
+125,Coffee Beans 500g,Pantry,8.99
+126,Honey 500g,Pantry,7.49
+127,Chicken Thighs 1kg,Meat & Seafood,10.49
+128,Beef Mince 500g,Meat & Seafood,16.49
+129,Salmon Fillets 2pk,Meat & Seafood,13.99
+130,Lamb Chops 600g,Meat & Seafood,11.99
+131,Pork Sausages 500g,Meat & Seafood,10.99
+132,Sparkling Water 10pk,Drinks,12.49
+133,Orange Juice 2L,Drinks,11.99
+134,Kombucha 4pk,Drinks,9.99
+135,Cold Brew 1L,Drinks,7.49
+136,Dishwashing Liquid,Household,15.49
+137,Paper Towel 4pk,Household,10.99
+138,Laundry Powder 2kg,Household,9.49
