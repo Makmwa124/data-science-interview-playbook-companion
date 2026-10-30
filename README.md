@@ -53,7 +53,7 @@ Tested with Python 3.13, pandas 3.0, NumPy 2.5, SciPy 1.18, statsmodels 0.15 and
 
 ## Get the book
 
-Paperback and Kindle editions are on Amazon. The PDF bundle with a printable cheat sheet is on Gumroad at [mathewkariuki.gumroad.com](https://mathewkariuki.gumroad.com).
+Paperback and Kindle editions are on Amazon.
 
 ## About
 
