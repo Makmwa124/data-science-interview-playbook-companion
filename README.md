@@ -53,7 +53,8 @@ Tested with Python 3.13, pandas 3.0, NumPy 2.5, SciPy 1.18, statsmodels 0.15 and
 
 ## Get the book
 
-Paperback and Kindle editions are on Amazon.
+- **Paperback:** [Amazon.com](https://www.amazon.com/dp/B0HPZC3TK4) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HPZC3TK4)
+- **Kindle:** [Amazon.com](https://www.amazon.com/dp/B0HPZ8MH1B) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HPZ8MH1B)
 
 ## About
 
